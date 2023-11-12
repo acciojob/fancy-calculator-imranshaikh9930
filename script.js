@@ -9,6 +9,6 @@ firstIn = firstIn * 2;
 
 let res =  firstIn + secondIn;
 
-alert(`The final result is: ${res}`);
+alert(`The final result is: ${res}`)
 	
 }
